@@ -18,3 +18,25 @@ generate ideas or brainstorming, but I do use it to review and edit my work.
 > Even the very this README.md file is written with assistance of writer.
 
 - [review](writer/review.md).
+
+## Assist
+
+Assist is an actor that helps me with various tasks. I use it to generate ideas,
+brainstorming, and to review and edit my work.
+
+- [review](assist/meta.md).
+
+
+## git
+
+git is an actor to help me generate commit messages and pull requests
+description.
+
+- [commit](git/commit.md).
+
+## Review
+
+Review is an actor to help me review and edit my work.
+
+- [architecture](review/architecture.md),
+- [golang](review/golang.md).
